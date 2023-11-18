@@ -1,0 +1,14 @@
+{
+    "uygulamaBaslik": "Sevimli Kedicik",
+    "kediIsim": "Kedicik",
+    "kediUcret": "1.000 ₺",
+    "kediMesafe": "1.6 km uzaklıkta",
+    "kediYasi": "9 Aylık",
+    "kediYasiText": "Yaş",
+    "kediCinsiyeti": "Dişi",
+    "kediCinsiyetiText": "Cinsiyet",
+    "kediKilosu": "7.5 kg",
+    "kediKilosuText": "Kilo",
+    "kediHakkindaText": "Hakkında",
+    "kediHakkinda": "Keddy temiz dişi bir kedi yavrusu, gerçekten kabarık ve oyuncu. Topla oynamayı ve yüzmeyi seviyor. O geliyor..." 
+}
